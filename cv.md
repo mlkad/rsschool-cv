@@ -38,3 +38,26 @@ function vowelOne(s){
     return vowels;
 }
 ```
+### Projects
+* Shelter
+  
+Designed and developed a responsive, interactive website for an animal shelter, showcasing pets with unique modals and detailed descriptions. Utilized HTML, CSS, and JavaScript to create an adaptive, visually appealing layout featuring a dynamic slider, clickable cards, and seamless pagination. Emphasized user-friendly design with intuitive navigation, and ensured adaptability across various screen sizes for an optimal user experience. Deployed project on GitHub Pages, highlighting skills in front-end development, responsiveness, and accessibility.
+
+
+https://rolling-scopes-school.github.io/mlkad-JSFEPRESCHOOL2024Q2/shelter/pages/main/index.html
+
+* Random jokes
+
+"Random Jokes" is an interactive project where I developed a dynamic app that fetches and displays jokes through an API. This project highlights my skills in JavaScript for API handling, CSS for responsive styling, and UI/UX design for an engaging user experience. The minimalist layout ensures easy navigation and a fun experience, demonstrating my ability to integrate external data sources and create intuitive, responsive interfaces.
+
+https://mlkad.github.io/random-jokes/
+
+
+### Education
+* Astana IT University (2023-2026)
+* JS/FE Pre-School 2024Q2
+
+### Languages
+* English (IELTS 6.0)
+* Russian
+* Kazakh
